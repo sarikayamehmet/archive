@@ -1,0 +1,9 @@
+### Scripts / Modules
+- Script.ipynb is the main script file that I used for the analysis
+- custom_fn.py is the module I wrote for data preprocessing and other related jobs.
+
+### Documents
+- Related documents and final output
+
+### Figures
+- Figures generated from the analysis
