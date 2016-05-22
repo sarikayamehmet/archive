@@ -5,5 +5,5 @@ contact: younghun8242@gmail.com
 
 ## Contents
 - [Practice Code] Intro to Deep Learning(udacity)
-- [Project] Drowsiness detection via analysis of EEG using SVM
-- [Kaggle] Titanic Challenge
+- [Practice Code] Predicting the Titanic Survivors
+- [Project] Analysis of brainwaves(EEG) using SVM for drowsiness detection.
