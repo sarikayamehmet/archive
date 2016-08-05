@@ -1,3 +1,6 @@
+Yüksek Lisans Tezi için faydalı olabilecek bir kaynak.
+İçindeki deep learning araştırmaları ve Neurosky Mindwave ürünü kullanması bizim çalışmamız ile benzeşiyor.
+
 ## Younghun's Archive
 
 Homepage: https://yhs-968.github.io/
